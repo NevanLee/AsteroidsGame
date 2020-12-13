@@ -4,7 +4,7 @@ class Floater //Do NOT modify the Floater class! Make changes in the Spaceship c
   protected int[] xCorners;   
   protected int[] yCorners;   
   protected int myColor;   
-  protected double myCenterX, myCenterY; //holds center coordinates   
+  protected float myCenterX, myCenterY; //holds center coordinates   
   protected double myXspeed, myYspeed; //holds the speed of travel in the x and y directions   
   protected double myPointDirection; //holds current direction the ship is pointing in degrees    
 
